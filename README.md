@@ -1,3 +1,3 @@
 # RetroConsoleShop
 
-Link:
+Link: https://ida-main.github.io/RetroConsoleShop/playstation.html
